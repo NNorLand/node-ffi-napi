@@ -26,3 +26,4 @@ deps/libffi/local.exp
 vgcore.*
 
 prebuilds/
+.DS_Store
